@@ -1,0 +1,178 @@
+# CONDICIONES GENERALES DE COMPRA DE BIENES Y/O SERVICIOS
+
+**Marzo 2026**
+
+---
+
+## 1.- APLICABILIDAD DE LAS CONDICIONES GENERALES DE COMPRA. ALCANCE.
+
+Las presentes Condiciones Generales de Compra (CGC) se aplicarán, con exclusión de cualquier otra estipulación o condición general o particular, a todos aquellos pedidos, peticiones u órdenes de compra, hojas de encargo y acuerdos (en adelante, Pedido/s) de adquisición de bienes o servicios o de ejecución de obra (en adelante, bienes o servicios) que emita o concluya ELECTROMENCANICA NAVAL E INDUSTRIAL S.A. (en adelante, indistintamente, el Comprador o Cliente) con sus proveedores (en adelante, el Proveedor), así como a las relaciones comerciales que se deriven de su ejecución. Salvo derogación particular expresamente reflejada y aceptada por el Comprador por escrito en el pedido, estas CGC forman parte integral del pedido y serán aplicables con preferencia en caso de contradicción con lo recogido por el Proveedor en cualquier documento. La presentación de oferta, el acuse de pedido, o el inicio de la ejecución por parte del Proveedor se entenderán, en todo caso, como aceptación completa de las presentes CGC, a cuyo cumplimiento queda obligado.
+
+El alcance del pedido comprende, además de cuanto en él se detalla, todo aquello que sea necesario para la entrega final en buenas condiciones de utilización y perfecto funcionamiento conforme a las especificaciones técnicas dadas. Si el Proveedor encuentra las especificaciones técnicas incompletas, erróneas o ambiguas, resolverá la cuestión proveyendo unas especificaciones completas y correctas antes de comenzar con la ejecución del pedido. Los bienes o servicios deberán adjuntar albarán de entrega e incluirá los certificados de calidad correspondientes y demás documentación.
+
+La recepción por el Comprador de una oferta del Proveedor en nada le obliga hasta la emisión del Pedido. Las CGC serán parte integrante de todos aquellos Pedidos que realice el Comprador. El Proveedor acepta, sin reserva alguna, su aplicación habiendo tenido oportunidad real de conocer de manera completa su contenido por habérsele proporcionado un ejemplar de las mismas, además de hallarse publicadas en la página web de Internet https://emenasa.com/downloads/Condiciones-generales-compra.pdf
+
+Las condiciones contractuales establecidas a través del presente condicionado serán de obligatoria observancia para las partes intervinientes en todo aquello que no conste específicamente acordado en el/los Pedido/s. Se excluye expresamente la aplicación de cualquier estipulación no aceptada, de manera expresa, por el Comprador o las condiciones generales de venta propias del Proveedor.
+
+## 2.- MODIFICACIONES Y ORDENES DE CAMBIO.
+
+El Comprador podrá solicitar, en cualquier momento, la ejecución de aquellos cambios en términos de diseño, cantidad o calidad sobre lo contemplado originalmente en el Pedido que sean razonables y técnicamente posibles, estando el Proveedor obligado a ejecutarlos. Cuando una orden de cambio implique reducción o incremento del precio, y/o de la fecha de entrega, el precio y/o el plazo serán ajustados de forma equitativa.
+
+## 3.- PROPIEDAD INTELECTUAL E INDUSTRIAL Y COMPROMISO DE CONFIDENCIALIDAD.
+
+La documentación técnica o elementos que se refieran al Pedido, presentada por una parte a la otra, antes o después de la formalización del Pedido, seguirá siendo de la propiedad de la parte que la presente.
+
+Toda tecnología, diseño, invención, y en general, toda información que implique propiedad industrial relativa a los equipos del Comprador o desarrollada con ocasión del pedido será revelada inmediatamente al Comprador y será propiedad de ésta, no pudiendo el Proveedor disponer de ella en su favor ni en el de terceros, si bien excepcionalmente podrá ser objeto de copropiedad por cuotas en función de la contribución respectiva.
+
+Las partes deberán tratar confidencialmente todos los documentos, datos, materiales e información proporcionada por una de ellas a la otra, y no podrán revelarlos a ningún tercero, ni usarlos para ningún otro propósito distinto del cumplimiento y desarrollo del contrato, a menos que conste previamente por escrito el consentimiento de la otra parte.
+
+## 4.- ENSAYOS PREVIOS Y PRUEBAS. CONTROLES Y AUDITORIAS.
+
+Si el Pedido establece la realización de ensayos previos, éstos se realizarán, salvo pacto en contrario, en el lugar designado por el Comprador, durante las horas ordinarias de trabajo. Si en el Pedido no se especifican los requisitos técnicos, los ensayos se llevarán a cabo de acuerdo con la práctica general en la rama industrial correspondiente. El Proveedor probará los bienes antes de su envío y se cerciorará de que cumplen con las especificaciones pactadas y con todas las obligaciones asumidas. A solicitud del Comprador, deberá entregar copias auténticas de los protocolos de pruebas, hojas de ensayo y/o informes de inspección.
+
+El Comprador, con el fin de poder verificar en cualquier momento el cumplimiento por parte del Proveedor de cada una las obligaciones que asume en virtud de la relación contractual, se reserva el derecho de realizar, directamente o mediante los profesionales externos que libremente designe, los controles y auditorías que estime convenientes. El Proveedor deberá facilitar dicha labor al Cliente, facilitándole el acceso a sus dependencias e instalaciones y entregándole al efecto cuanta información y documentación le sea requerida.
+
+## 5.- CALIDAD.
+
+El Proveedor mantendrá un sistema de calidad de acuerdo a los estándares de su tipo de suministro y sector de actividad, y asegura que todos los bienes o servicios cumplen con las especificaciones, planos y muestras acordadas, se corresponden completamente en calidad y cantidad con el Pedido y sus cambios, y son adecuados para el fin previsto. El Proveedor se obliga a cumplir las condiciones de control de calidad que tenga implantadas el Comprador en cada momento. El Proveedor facilitará todos los certificados de fabricación y de origen, así como de comercialización, que sean necesarios, así como los manuales de instrucciones en inglés y/o castellano y el resto de información necesaria sobre los bienes o servicios.
+
+## 6.- RECEPCIÓN Y RECHAZO.
+
+La recepción de los bienes o servicios por el Comprador tiene lugar: a) con la entrega del bien o la prestación del servicio con la conformidad del Comprador; b) cuando se haya acordado efectuar ensayos de recepción, en el momento en que han sido completados o se pueden considerar "completados satisfactoriamente".
+
+El Comprador rechazará o revocará la aceptación de los bienes o servicios que no cumplan los requisitos del Pedido y sus cambios. En tal caso podrá pedir una nueva entrega sin coste adicional y, además, a su elección, devolverlo o almacenarlo a riesgo y por cuenta del Proveedor, solicitando la devolución de la parte del precio pagado. Si el Proveedor realiza una nueva entrega, deberá retirar a su costa los bienes defectuosos. El rechazo no justifica un aumento del plazo de entrega. El rechazo no perjudica los derechos del Comprador, siendo remedio adicional a cualquier otro derecho o acción aplicables.
+
+De haberse establecido la realización de ensayos o pruebas de recepción, el Comprador establecerá la forma en que han de realizarse, debiendo correr el Proveedor con todos los gastos que se originen.
+
+## 7.- TRANSMISIÓN DE PROPIEDAD Y RIESGO.
+
+Los bienes se transportan a riesgo y ventura del Proveedor. La transmisión de la propiedad y del riesgo de pérdida tendrá lugar cuando se produzca la aceptación definitiva de la mercancía entregada en el lugar acordado, lista para ser usada y de acuerdo con lo pactado. Cuando se realice un pago adelantado con anterioridad a la entrega, la propiedad se transmitirá cuando se realice el pago, siempre y cuando posteriormente la mercancía haya sido encontrada conforme. En los supuestos de rechazo tras la entrega, los bienes rechazados serán definitivamente propiedad del Proveedor desde la fecha de notificación de su no-conformidad. En el caso de terminación anticipada, aunque los bienes hayan sido entregados el riesgo de pérdida permanecerá con el Proveedor.
+
+## 8.- PRECIO Y CONDICIONES DE PAGO.
+
+El precio será el establecido en el Pedido. Los precios contenidos en cada pedido son cerrados y fijos y, salvo otra especificación en el Pedido, en condiciones DDP (fábrica del Comprador o lugar de destino en España señalado por el Comprador) de acuerdo con INCOTERMS 2020. Los precios son definitivos, no revisables, e incluyen, además de cualquier coste, impuesto (con exclusión del IVA), arancel o cargo aplicable, todo lo que es objeto de contratación y cualquier ejecución accesoria que no se detalle expresamente pero que deba aportar o realizar el Proveedor para el correcto cumplimiento de sus obligaciones. La moneda es el Euro salvo pacto en contrario. No se aceptan modificaciones por fluctuación de tipo de cambio. En el caso de precios unitarios, el precio resultará del número de unidades solicitadas y entregadas en las condiciones pactadas a satisfacción del Comprador. Sólo podrán cargarse al Comprador incrementos de precio resultantes de entregas de bienes o prestación de servicios adicionales expresamente aceptadas previamente por escrito.
+
+Las condiciones de pago del precio serán las establecidas en el Pedido/s. En ausencia de pacto, el pago de precio se realizará mediante transferencia, una vez recibido o realizado el Pedido de forma completa y a satisfacción del Comprador, en el plazo pactado (60 días, en ausencia de pacto), contado desde la fecha de la factura conforme que corresponda a la entrega del Pedido. Todos los pagos correspondientes a entregas parciales realizadas con anterioridad a la entrega completa del pedido tienen la consideración de anticipos. En la factura deberá constar el número de pedido y albarán. No se emitirán facturas hasta que se haya cumplido el pedido correctamente y en su totalidad.
+
+El Comprador podrá compensar sus derechos de crédito o los de cualquier otra empresa del Grupo Emenasa contra el Proveedor y/o empresas pertenecientes a su mismo grupo empresarial con reclamaciones de pago por parte del Proveedor y/o empresas de su mismo grupo empresarial, aunque no estén relacionadas. En el caso de incumplimiento de sus obligaciones por parte del Proveedor, el Comprador podrá diferir y/o retener pagos. El pago no supone aceptación definitiva de los bienes o servicios, por lo que el Comprador conserva todos los derechos que puedan corresponderle. Si los bienes o servicios no reúnen los requisitos contractuales, la factura será abonada en el plazo pactado en el pedido, pero contado desde la fecha en que dichos defectos se corrijan. Cuando la obligación del Proveedor incluya la entrega de datos técnicos tales como planos, diseños, manuales de funcionamiento y mantenimiento, etc., y/o pruebas de funcionamiento una vez instalados, el Comprador podrá retener una parte del precio hasta que se compruebe su cumplimiento con los requisitos acordados.
+
+En caso de demora en el pago, el Proveedor no podrá suspender la ejecución del pedido/s.
+
+## 9.- PLAZOS DE EJECUCIÓN.
+
+El plazo o calendario establecido en el Pedido es esencial y vincula al Proveedor. El Proveedor deberá advertir por escrito cuando no pueda cumplir los plazos pactados. El Comprador se reserva el derecho de rechazar los bienes o servicios que no haya sido entregada en los plazos señalados. La entrega se entenderá realizada cuando el Proveedor ponga a disposición del Comprador, en el lugar y condiciones indicadas en el Pedido, el objeto del Pedido en la cantidad acordada, y una vez se haya comprobado que se ajusta al Pedido y va acompañado de todos los documentos y certificados y documentos exigidos en el mismo.
+
+En caso de demora en la entrega, el Comprador, sin necesidad de requerimiento previo, tendrá derecho a una indemnización por los daños y perjuicios ocasionados. La indemnización por daños y perjuicios será pagadera a razón de un 1,00 por ciento del importe total del Pedido por cada semana comenzada de retraso, hasta un máximo del 20% del importe total del Pedido, sin perjuicio de la facultad del Comprador de resolver el contrato y de su derecho a la indemnización de todos los daños adicionales que el retraso haya provocado, tales como el coste de adquirir los bienes o servicios de terceros para lograr la ejecución del Pedido.
+
+## 10.- PROPIEDAD DEL COMPRADOR.
+
+Todos los elementos para la producción, tales como diseños, planos, instrucciones, croquis, muestras, modelos, moldes, utillaje, etc., que sean facilitados al Proveedor por el Comprador o por un tercero en su nombre para la ejecución de un pedido o para su incorporación a otros elementos; así como aquellos fabricados a partir de los mismos, o fabricados a costa del Comprador para la mejor ejecución de un pedido, son propiedad plena y exclusiva del Comprador.
+
+## 11.- DERECHOS DE PROPIEDAD INDUSTRIAL E INTELECTUAL.
+
+El Proveedor garantiza que el suministro de bienes y/o servicios no infringe derechos de propiedad intelectual o industrial de terceros, y se obliga a mantener indemnes al Comprador y a sus clientes respecto de cualquier reclamación derivada de dicha infracción, liberándoles de toda responsabilidad y defendiendo a sus expensas cualquier conflicto.
+
+## 12.- DECLARACIONES DEL PROVEEDOR Y RESPONSABILIDAD POR DEFECTOS. GARANTÍA OTORGADA.
+
+El Proveedor declara que el objeto del suministro está libre de defectos o vicios, cumple con todo lo pactado y lo legalmente exigible, y es adecuado y suficiente para el fin previsto en el Pedido. El Proveedor garantiza la conformidad de los bienes y servicios, por lo que deberá subsanar cualquier defecto o falta de conformidad (a continuación, referido con el término defecto/s).
+
+El Proveedor garantiza el objeto del Pedido por al menos treinta y seis (36) meses a partir de la entrega completa o veinticuatro (24) meses desde la puesta en servicio por el Comprador o por el cliente final, lo que más tarde suceda, de cualquier defecto o vicio aparente u oculto, ya sea de diseño, materiales, fabricación, mano de obra, embalaje, transporte, montaje, puesta en funcionamiento (cuando sea obligación del Proveedor) o funcionamiento. La garantía alcanza, a elección del Comprador, no sólo a la reparación gratuita, sino a la sustitución (bienes) o reejecución (servicios) en el menor tiempo posible de las partes defectuosas o del propio bien o servicio. Todos los gastos de remoción, desmontaje, montaje, recolocación, aduana, seguro, transporte, viajes, estancia y manutención, así como el riesgo de daño o pérdida durante las anteriores etapas y la reparación son asumidos por el Proveedor. En caso de reparación, el transporte se hará en condiciones EXW desde el lugar en el que se encuentren los bienes, y en caso de sustitución, se hará en condiciones DAP en el lugar de destino señalado por Comprador. Tras la reparación el Proveedor deberá corregir y/o sustituir todos diseños, planos y manuales.
+
+Si notificado el Proveedor de una falta de conformidad, no cumple con sus obligaciones de garantía dando respuesta satisfactoria en dos (2) semanas, en el caso de reparación, el Comprador podrá asumirla o encargarla a terceros sin pérdida de garantía, y en el caso de sustitución, comprar a terceros los bienes o servicios adecuados, todo ello por cuenta y riesgo del Proveedor, pudiendo compensarse automáticamente el importe que proceda de la facturación pendiente de satisfacer al Proveedor. La garantía de los elementos reparados o reemplazados durará al menos veinticuatro (24) meses desde la fecha de la reinstalación o superación de las pruebas, en su caso.
+
+El plazo de garantía de todo el equipo se suspenderá hasta que sea corregido el defecto. Los clientes del Comprador y los sucesivos compradores podrán exigir la garantía si está vigente. Los derechos contemplados en esta condición lo son sin perjuicio de cualquier otro derecho o remedio contractual o legal disponible. Para el cumplimiento de todo lo previsto en esta condición, el Comprador podrá exigir un aval bancario de garantía, por importe del diez por ciento (10%) del precio del pedido, según modelo que facilitará al Proveedor o hacer una retención, en igual importe, del precio del pedido.
+
+## 13.- CANCELACIÓN, SUSPENSIÓN Y RESOLUCIÓN.
+
+Una vez aceptado un Pedido/s, el Comprador podrá realizar cancelaciones totales o parciales del mismo antes de que se inicie su ejecución. El Comprador podrá igualmente, mediante notificación escrita, suspender, reducir la ejecución o retrasar la entrega y pago de un pedido no completado o parte de él. En tal caso, el Proveedor interrumpirá de inmediato sus trabajos y pedidos de materiales, sin derecho a indemnización. El Comprador no aceptará entregas posteriores a la comunicación de la suspensión, y sólo abonará el precio de los suministros completados y el coste los trabajos ya iniciados hasta ese momento, justificados por escrito. El Proveedor impondrá esta condición a todos sus subcontratados y proveedores.
+
+En los acuerdos de suministro, sin perjuicio del plazo de duración pactado, el Comprador podrá en cualquier momento de vigencia del suministro o de sus prórrogas, dar por resuelto y extinguido el mismo, por cualquier motivo o causa, con la única obligación de preavisar al Proveedor: (i) con un mínimo de un (1) mes de antelación, en caso de suministros de duración no superior a un (1) año; (ii) con un mínimo de dos (2) meses de antelación, en caso de suministros de duración superior a un (1) año, o que hayan sido objeto de prórroga/s. En tal caso, el Proveedor renuncia a percibir cantidad o indemnización alguna por dicha terminación anticipada. Lo anterior se entiende sin perjuicio del derecho del Proveedor a percibir aquellas cantidades que estuvieran pendientes de pago por la prestación de los suministros ejecutados hasta el momento en que se produzca dicha terminación anticipada.
+
+Además de por las causas legalmente establecidas, de aquellas previstas en los apartados correspondientes de las presentes CGC, así como de las que pudieran establecerse en el Pedido o contrato, la relación contractual quedará resuelta en caso de concurrir cualquiera de las siguientes causas:
+
+a) El mutuo acuerdo entre las partes.
+
+b) La finalización del plazo pactado o si mediara denuncia expresa del Cliente, en la forma y con la antelación prevista en las presentes CGC.
+
+c) La cesación o supresión, aún temporal, de la prestación del suministro, por parte del Proveedor.
+
+d) La pérdida por parte del Proveedor de cualquiera de las condiciones, autorizaciones, licencias y demás requisitos que resultasen necesarios para la prestación de los servicios o entrega de los bienes.
+
+e) El incumplimiento por la otra parte de cualquiera de las obligaciones que asume a través de la relación contractual y siempre que no se subsanase tal incumplimiento en el término de quince (15) días contados a partir de la recepción de la notificación de la otra parte para que proceda a la subsanación.
+
+La terminación de la relación contractual por cualquiera de las causas previstas en el apartado anterior no dará derecho al Proveedor al cobro de indemnización o cantidad alguna. Cuando el Proveedor no cumpla con sus obligaciones contractuales correctamente y a tiempo, incluyendo las presentes CGC, así como en los casos de falta de capacidad técnica o financiera, sin perjuicio de los demás derechos y penalidades convenidas, el Comprador podrá resolver el contrato por escrito con efecto inmediato, en todo o en parte, sin derecho del Proveedor a indemnización, bastando con que el Comprador abone el precio del suministro realizado correctamente hasta la fecha, con las deducciones que procedan en caso de existir daños y perjuicios, que serán reclamados al Proveedor.
+
+## 14.- RESPONSABILIDAD.
+
+El Proveedor responderá de todos los daños y perjuicios directos e indirectos, reclamaciones y penalidades que el Comprador y/o sus clientes sufran por sus incumplimientos, por actos u omisiones de sus empleados, proveedores o subcontratados, o por defectos de los bienes o servicios, e intentará reducir los daños derivados de su ejecución defectuosa avisando ante cualquier sospecha de defectos, defendiendo y manteniendo indemne al Comprador contra cualquier pérdida, daño, gasto o reclamación de terceros relativa al incumplimiento contractual del Proveedor o defectos de los bienes o servicios.
+
+El Comprador no será responsable frente al Proveedor de daños o pérdidas directas o indirectas, tales como la pérdida de producción, de ingresos o beneficios de explotación, lucro cesante, pérdida de contratos o cualquier otro daño o pérdida emergente, indirecta o consecuente.
+
+## 15.- SEGUROS.
+
+El Proveedor deberá mantener por su cuenta y cargo durante la vigencia de la relación contractual con el Comprador un seguro de responsabilidad civil que incluya las coberturas de responsabilidad civil de explotación y responsabilidad civil de Productos con límite suficiente acorde a su actividad y/o productos que comercializa. El Proveedor se obliga a entregar al Cliente, cuando éste así se lo solicite, una copia de la póliza o de certificado de seguro que acredite su vigencia. El incumplimiento por el Proveedor de la obligación establecida en la presente cláusula facultará al Cliente para la resolución del contrato o Pedido.
+
+## 16.- OBLIGACIONES LABORALES Y SOCIALES. SEGURIDAD Y SALUD EN EL TRABAJO.
+
+El Proveedor se compromete a cumplir las disposiciones laborales vigentes, obligándose, entre otras cuestiones, a tener el personal debidamente contratado, a que esté cualificado para la realización de los trabajos contratados, a estar y mantenerse al corriente del pago de los salarios correspondientes y al día en el cumplimiento de sus obligaciones en materia de Seguridad Social. El Proveedor mantendrá indemne al Comprador de las consecuencias que para esta última pudieran derivarse de cualquier acción, reclamación, procedimiento instado por un tercero por el incumplimiento de cualquier obligación laboral o de la Seguridad Social haciendo frente a las cantidades que resultaran de los mismos. En estos supuestos de incumplimiento, el Comprador podrá retener de cualquier cantidad que se devengue a favor del Proveedor un importe equivalente al total de las responsabilidades que estime razonablemente pudieran derivarse del mismo. El Proveedor adoptará cuantas medidas sean necesarias para dar cumplimiento a la normativa vigente sobre prevención de riesgos laborales que resulte de aplicación, y en su caso, de resultar aplicable, la contenida en la Ley 31/1995 de 8 de noviembre, sus disposiciones de desarrollo y/o complementarias.
+
+## 17.- CESIÓN Y SUBCONTRATACIÓN.
+
+Ninguna de las partes podrá ceder el contrato o Pedido a un tercero. El Proveedor podrá subcontratar la realización de trabajos específicos a terceros previa aceptación del Comprador, si bien el Proveedor será siempre responsable frente al Comprador.
+
+## 18.- FUERZA MAYOR.
+
+Ninguna de las Partes será responsable por el incumplimiento de sus obligaciones si dicho incumplimiento se debe únicamente a un evento de Fuerza Mayor. Se considerará un evento de Fuerza Mayor aquel evento o condición más allá del control razonable de una Parte y que no pueda razonablemente preverse, incluidos desastres naturales o condiciones catastróficas como incendios, inundaciones, terremotos, tifones, epidemias, guerras, disturbios, revoluciones. Si cualquier evento de Fuerza Mayor se extendiera por un período igual o superior a treinta (30) días, el Comprador tendrá el derecho a terminar los pedidos afectados por dicho evento.
+
+## 19.- PREVISIÓN DE INCUMPLIMIENTO.
+
+El Comprador podrá diferir y suspender el cumplimiento de sus obligaciones y por ende del contrato o Pedido, si resulta manifiesto que el Proveedor no cumplirá sus obligaciones a causa de: a) un grave menoscabo de su capacidad para cumplirlas o de su solvencia, o b) su comportamiento inadecuado al disponerse a cumplir o al cumplir el contrato. La suspensión del cumplimiento del contrato o Pedido deberá notificarse a la otra parte, manteniéndose la suspensión hasta que el Proveedor garantice de modo suficiente, a juicio del Comprador, el cumplimiento de sus obligaciones.
+
+## 20.- SEGURIDAD INFORMÁTICA.
+
+El Proveedor declara implementadas y mantendrá, durante toda la vigencia de la relación comercial, las medidas técnicas y organizativas apropiadas en materia de seguridad informática, ciberseguridad e información que se establezcan en la legislación aplicable.
+
+El Proveedor se compromete a cumplir los procedimientos en materia de seguridad informática, ciberseguridad e información establecidos por el Comprador y/o el cliente final receptor del bien y/o servicio, así como a guiarse y cumplir las prácticas y normas en materia de ciberseguridad aplicables al sistema o al servicio suministrado (por ejemplo, la norma ISO27001, los estándares TISAX, el Marco de Ciberseguridad del NIST, el proyecto OWASP, la norma IEC62443, las normas de seguridad de los datos del sector de las tarjetas de pago, etc.), así como también cumplir con la normativa vigente en esta materia y a cumplir con cualquier política comunicada por el Comprador.
+
+## 21.- REVERSIBILIDAD.
+
+El Proveedor se compromete a garantizar la reversibilidad de los servicios prestados, desde un punto de vista técnico, y a hacer todo lo necesario (desde un punto de vista jurídico y de recursos humanos) para que el Comprador pueda retomar la prestación de los servicios del Proveedor o hacer que un tercero nombrado por él la retome en las mejores condiciones posibles. Con el fin de asegurar la transferencia de conocimientos, el Proveedor se compromete a responder por escrito a todas las preguntas presentadas por escrito por el Comprador.
+
+En caso de vencimiento o rescisión del contrato, por cualquier motivo, el Comprador tendrá derecho a exigir al Proveedor que le proporcione toda la información necesaria para poder preparar la reversibilidad.
+
+El Proveedor deberá mantener los recursos técnicos y humanos necesarios para garantizar la prestación continua del servicio y para hacer efectiva la reversibilidad. En caso de que la reversibilidad resulte de la rescisión anticipada de la relación, a raíz de un incumplimiento del Proveedor o de cualquier otro hecho no imputable al Comprador, los servicios de asistencia a la reversibilidad no se facturarán al Comprador.
+
+## 22.- PROTECCIÓN DE DATOS PERSONALES.
+
+Las Partes declaran su pleno cumplimiento de la normativa de protección de datos personales aplicable y, en particular, el Reglamento 679/2016, de 27 de abril, General de Protección de Datos (en adelante RGPD). El Cliente informa al Proveedor que los datos personales facilitados por éste en virtud de cualquier contrato, oferta y/o pedido que, en adelante, faciliten en el marco de su ejecución serán tratados con la única finalidad de facilitar la adecuada gestión y ejecución de la relación contractual que se establece entre las partes y sobre la base jurídica de la misma. Los referidos datos personales únicamente serán comunicados a aquellas entidades y/u organismos públicos a los que resulte necesario realizar dicha comunicación en cumplimiento de las obligaciones legales que corresponda observar. En este contexto, se hace constar que la aportación de dichos datos personales por parte del Proveedor resulta necesaria y constituye requisito contractual, de tal forma que, en caso de no facilitarse dichos datos y/o no realizarse dicha comunicación, no resultaría posible la ejecución del contrato. El Cliente conservará los datos personales durante el tiempo estrictamente necesario para la adecuada ejecución del contrato y, cuando fuese necesario, por el plazo adicional de conservación que dicha entidad deba observar para el cumplimiento de sus obligaciones legales.
+
+Cuando la ejecución del contrato, oferta y/o pedido suscrito entre las partes requiera, en atención al contenido del mismo, el tratamiento de datos personales por parte del Proveedor, éste quedará obligado al cumplimiento de lo dispuesto en la normativa aplicable en materia de protección de datos, obligándose a suscribir con el Comprador el correspondiente contrato con el contenido y alcance que determina el artículo 28 del RGPD.
+
+El Proveedor no podrá subcontratar, total ni parcialmente, los servicios que impliquen tratamiento de información del Cliente sin autorización previa, expresa y escrita de éste. Toda subcontratación aprobada quedará sujeta a un contrato que imponga al subcontratista obligaciones de seguridad y confidencialidad, al menos equivalentes a las previstas en el presente acuerdo, siendo el Proveedor responsable solidario de las actuaciones y omisiones del subcontratista.
+
+A la finalización de la relación comercial entre Cliente y Proveedor, cualquiera que sea la causa, el Proveedor, dentro de los treinta (30) días naturales siguientes, deberá (i) cesar todo tratamiento de datos personales del Cliente; (ii) devolverlos —en formato estructurado, comúnmente utilizado y legible por máquina— o proceder a su destrucción certificada, según indique por escrito el Cliente; y (iii) suprimir todas las copias de respaldo salvo obligación legal de conservación, en cuyo caso los datos permanecerán bloqueados y sometidos al mismo nivel de protección. La Parte que realice la eliminación entregará certificado escrito que acredite su correcta ejecución.
+
+## 23.- CUMPLIMIENTO NORMATIVO POR EL PROVEEDOR.
+
+El Proveedor deberá cumplir todas las leyes y normativas aplicables en cada jurisdicción en la que desarrolle sus actividades. Esto incluye, entre otros, el cumplimiento de las leyes y normativas en materia de competencia, gobierno corporativo, fiscalidad, divulgación financiera, derechos de los empleados, protección del medio ambiente, salud y seguridad en el trabajo y control de las exportaciones.
+
+El Proveedor respeta y respetará la protección de los derechos humanos, tal y como se definen en la Declaración Universal de Derechos Humanos de las Naciones Unidas (véase https://www.un.org/Overview/rights.html). El Proveedor promoverá la no discriminación por motivos de raza, origen étnico o nacional, color, género, situación familiar, orientación sexual, credo, discapacidad, edad o creencias políticas o cualquier otra característica protegida por la ley. El Proveedor fomentará la igualdad de oportunidades. El Proveedor apoyará los derechos laborales tal y como los define la Organización Internacional del Trabajo (véase www.ilo.org/ilolex/english/convdisp1.htm). A este respecto, el Proveedor defenderá la libertad de asociación y el reconocimiento efectivo del derecho a la negociación colectiva. En caso de que estos derechos estén restringidos por la legislación local, el Proveedor ofrecerá a su personal medios alternativos para expresar sus opiniones. El Proveedor no participará en ninguna práctica incompatible con las leyes y reglamentos que prohíben el trabajo infantil. El Proveedor no utilizará ninguna forma de trabajo forzoso u obligatorio.
+
+El Proveedor se obliga a cumplir plenamente con todas las leyes aplicables que prohíben el soborno, el blanqueo de capitales y la extorsión, así como con las normas de conducta y el espíritu del Convenio de la OCDE sobre la lucha contra el soborno de funcionarios extranjeros en las transacciones comerciales internacionales y los comentarios al respecto («Convenio de la OCDE», véase www.oecd.org en «Corrupción») y las Normas de Conducta para Combatir la Extorsión y el Soborno de la Cámara de Comercio Internacional («Normas de la CCI», véase www.iccwbo.org en «Anticorrupción»), habiendo leído y comprendido el Proveedor tanto el Convenio de la OCDE como las Normas de la CCI.
+
+El Proveedor deberá cumplir con todas las leyes y reglamentos de control de exportaciones aplicables. El Proveedor deberá obtener todas las licencias o acuerdos de exportación necesarios para cumplir con sus obligaciones en virtud del presente Acuerdo, según corresponda.
+
+El Proveedor se asegurará de que sus subProveedores (si los hubiera) cumplan los requisitos de esta cláusula.
+
+En caso de incumplimiento por el Proveedor de cualquiera de las obligaciones sobre cumplimiento establecidas en la presente cláusula, el Cliente tendrá derecho a resolver la relación contractual con el Proveedor mediante una simple comunicación por escrito que tendrá efectos inmediatos.
+
+## 24.- DERECHO APLICABLE Y JURISDICCIÓN.
+
+Las presentes CGC, el Pedido, su ejecución y cualquier otra relación jurídica entre Comprador y Proveedor se rigen por la Ley común española, con exclusión de sus normas de conflicto de leyes y de la Convención de Viena de 1980 sobre Compraventa Internacional de Mercaderías.
+
+Las controversias y litigios que puedan surgir en relación a la interpretación, ejecución o cumplimiento del Pedido y de los acuerdos y/o contratos celebrados entre las partes se someterán a la jurisdicción y competencia de los Juzgados y Tribunales de la ciudad de Vigo, España, con exclusión de cualquier otro foro.
+
+---
+
+*Documento: Condiciones Generales de Compra de Bienes y/o Servicios — ELECTROMECÁNICA NAVAL E INDUSTRIAL S.A. (Grupo Emenasa)*
+*Versión: Marzo 2026*
